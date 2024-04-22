@@ -1,0 +1,9 @@
+import math
+
+myinput = 6
+print(math.factorial(myinput))
+
+import math
+
+myinput = 5
+print(math.sqrt(myinput))
