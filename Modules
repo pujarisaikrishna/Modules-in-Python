@@ -7,3 +7,20 @@ import math
 
 myinput = 5
 print(math.sqrt(myinput))
+
+
+import math
+
+myinput = 5
+print(math.pow(4,3))
+
+
+import math
+
+myinput =2
+print(math.exp(myinput))
+
+import math
+
+myinput =2
+print(math.frexp(myinput))
